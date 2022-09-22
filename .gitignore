@@ -6,5 +6,6 @@ yarn.lock
 .DS_Store
 .vscode
 .github
+.idea
 prisma/migrations/dev/
 .env
