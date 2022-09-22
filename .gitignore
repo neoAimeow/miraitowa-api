@@ -2,8 +2,9 @@ node_modules/
 dist/
 prisma/*.db
 coverage/
-
+yarn.lock
 .DS_Store
-
+.vscode
+.github
 prisma/migrations/dev/
 .env
