@@ -2,7 +2,7 @@ node_modules/
 dist/
 prisma/*.db
 coverage/
-yarn.lock
+*/yarn.lock
 .DS_Store
 .vscode
 .github
